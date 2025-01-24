@@ -1,0 +1,1 @@
+/home/guna-maneesh/ruskos-problem-repo/target/x86_64-rusk/debug/librusk_os.rlib: /home/guna-maneesh/ruskos-problem-repo/src/gdt.rs /home/guna-maneesh/ruskos-problem-repo/src/interrupts.rs /home/guna-maneesh/ruskos-problem-repo/src/lib.rs /home/guna-maneesh/ruskos-problem-repo/src/serial.rs /home/guna-maneesh/ruskos-problem-repo/src/vga_buffer.rs
